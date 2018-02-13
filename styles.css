@@ -1,0 +1,61 @@
+body {
+  font-family: "Ropa Sans", sans-serif;
+}
+
+.container {
+  width: 350px;
+  /*height: 575px;*/
+  background-color: white;
+  box-shadow: 7px 5px 30px #999;
+  border-radius: 9px;
+  padding: 15px 15px 17px;
+}
+
+.header-img-border {
+  border: 2px solid #edda74;
+  border-radius: 7px;
+  padding: 0 4px 7px 23px;
+  background-color: #ffe87c;
+}
+
+h1 {
+  font-size: 22px/1.5 "Ropa Sans", sans-serif;
+  text-shadow: 3px 2px #e8e8e6;
+}
+
+.animal-image {
+  border-radius: 8px;
+  width: 300px;
+  height: 200px;
+  box-shadow: 2px 1px 9px #b8a251;
+}
+
+.informatiom-border {
+  border: 3px outset #ffe87c;
+  border-radius: 7px;
+  padding: 0.5px 9px;
+}
+
+.list-items-main-border {
+  border-style: ridge;
+  padding: 0 28px 3px 0;
+  width: 290px;
+  height: 90px;
+}
+
+.interesting-fact {
+  font-style: italic;
+  text-align: justify;
+}
+
+.list-items {
+  list-style-type: none;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.animal-description {
+  text-align: justify;
+}
